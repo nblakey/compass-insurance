@@ -60,6 +60,7 @@ const Menu = () => {
                             <a href={links.about.href}>{links.about.text}</a>
                             <a href={links.faq.href}>{links.faq.text}</a>
                             <a href={links.contact.href}>{links.contact.text}</a>
+                            <a href={links.privacy.href}>{links.privacy.text}</a>
                             <a href={links.phone.href}>{links.phone.text}</a>
                         </div>
                     </div>
@@ -96,6 +97,7 @@ const Menu = () => {
                                     <a href={links.about.href}>{links.about.text}</a>
                                     <a href={links.faq.href}>{links.faq.text}</a>
                                     <a href={links.contact.href}>{links.contact.text}</a>
+                                    <a href={links.privacy.href}>{links.privacy.text}</a>
                                     <a href={links.phone.href}>{links.phone.text}</a>
                                 </div>
                             )}
