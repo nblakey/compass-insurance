@@ -87,6 +87,10 @@
             "href": "/faq",
             "text": "FAQs"
         },
+        "privacy": {
+            "href": "/privacy-terms",
+            "text": "Privacy"
+        },
         "healthInsurance": {
             "href": "/health-insurance",
             "text": "Marketplace Health Insurance"
