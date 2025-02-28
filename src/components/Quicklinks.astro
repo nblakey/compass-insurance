@@ -41,12 +41,16 @@ const { className, showDropdown } = Astro.props
         <div>{links.faq.text}</div>
         <MaterialIcons icon="LaunchIcon" />
     </a>
+    <a href={links.contact.href} class="quick-item">
+        <div>{links.contact.text}</div>
+        <MaterialIcons icon="LaunchIcon" />
+    </a>
     <a href={links.privacy.href} class="quick-item">
         <div>{links.privacy.text}</div>
         <MaterialIcons icon="LaunchIcon" />
     </a>
-    <a href={links.contact.href} class="quick-item">
-        <div>{links.contact.text}</div>
+    <a href={links.sms.href} class="quick-item">
+        <div>{links.sms.text}</div>
         <MaterialIcons icon="LaunchIcon" />
     </a>
 </div>

@@ -88,8 +88,12 @@
             "text": "FAQs"
         },
         "privacy": {
-            "href": "/privacy-terms",
+            "href": "/privacy-policy",
             "text": "Privacy"
+        },
+        "sms": {
+            "href": "/terms-conditions",
+            "text": "SMS Terms"
         },
         "healthInsurance": {
             "href": "/health-insurance",
