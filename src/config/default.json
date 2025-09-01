@@ -14,7 +14,7 @@
         },
         {
             "question": "Is there a penalty for not signing up for Medicare when I turn 65?",
-            "answer": "As long as you’ve had credible coverage, no, there is no penalty."
+            "answer": "As long as you've had credible coverage, no, there is no penalty."
         },
         {
             "question": "What is Part D?",
@@ -134,12 +134,20 @@
         "phone": {
             "href": "tel:3173989321",
             "text": "317-398-9321"
+        },
+        "facebook": {
+            "href": "https://www.facebook.com/CompassInsShelbyville",
+            "text": "Follow us on Facebook"
+        },
+        "youtube": {
+            "href": "http://www.youtube.com/@Compassinsurance",
+            "text": "Watch us on YouTube"
         }
     },
     "testimonials": [
         {
-            "author": "Heather W.",
-            "review": "Gary has always been so kind and patient when answering my many questions about insurance. I am extremely grateful for the services he provides. 10/10 recommend Compass Insurance Group!"
+            "author": "Jenny P.",
+            "review": "Gary was very knowledgeable and I was very pleased with his service. Super easy process! Have been referring a lot of people to him!"
         },
         {
             "author": "K. Sellers",
