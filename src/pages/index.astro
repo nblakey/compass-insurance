@@ -25,7 +25,7 @@ import Testimonials from '../components/Testimonials.tsx';
 				</div>
 				<div class="lg:py-8 lg:px-4">
 					<div class="text-sm font-bold text-center lg:text-left mb-6 md:text-base lg:text-xl">Select a product for more information</div>
-					<div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3 lg:gap-4 ">
+					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 lg:max-w-[48%] xl:max-w-3xl gap-3 lg:gap-4">
 						{config.tiles.map((t, i) => (
 							<Tile dictionary={t} index={i}/>
 						))}
