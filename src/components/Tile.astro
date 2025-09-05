@@ -23,7 +23,7 @@ const icons = [medical, notes, calendar, raft, money]
 
 const { dictionary, index } = Astro.props
 ---
-<div class="relative flex text-black border-[1px] border-accent-shadow-blue bg-white rounded-md items-center gap-5 py-3 px-5 shadow-md shadow-accent-lightblue h-24">
+<div class="relative flex text-black border-[1px] border-accent-shadow-blue bg-white rounded-md items-center gap-5 py-3 px-5 shadow-md h-24">
     <div>
         <Image alt={`icon of a ${dictionary.iconAlt}`} src={icons[index]} class="w-[50px] object-contain" width="100"/>
     </div>
